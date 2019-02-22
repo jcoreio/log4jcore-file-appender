@@ -1,7 +1,7 @@
 {
-  "name": "es2015-library-skeleton",
+  "name": "log4jcore-file-appender",
   "version": "0.0.0-development",
-  "description": "my personal ES2015 library project skeleton",
+  "description": "Write to a file instead of the console from log4jcore",
   "main": "index.js",
   "module": "es/index.js",
   "sideEffects": false,
@@ -65,17 +65,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jedwards1211/es2015-library-skeleton.git"
+    "url": "https://github.com/jcoreio/log4jcore-file-appender.git"
   },
   "keywords": [
-    "es2015"
+    "log4jcore",
+    "logging"
   ],
-  "author": "Andy Edwards",
+  "author": "Jason McLaurin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jedwards1211/es2015-library-skeleton/issues"
+    "url": "https://github.com/jcoreio/log4jcore-file-appender/issues"
   },
-  "homepage": "https://github.com/jedwards1211/es2015-library-skeleton#readme",
+  "homepage": "https://github.com/jcoreio/log4jcore-file-appender#readme",
   "devDependencies": {
     "@babel/cli": "^7.1.5",
     "@babel/core": "^7.1.6",

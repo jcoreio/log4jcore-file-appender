@@ -1,0 +1,12 @@
+{
+  "name": "log4jcore-file-appender-example",
+  "version": "1.0.0",
+  "description": "Example of using log4jcore-file-appender",
+  "main": "index.js",
+  "author": "Jason McLaurin",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "log4jcore": "^3.0.1"
+  }
+}
