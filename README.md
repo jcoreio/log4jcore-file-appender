@@ -12,7 +12,7 @@ Append to a file instead of logging to the console in log4jcore
 
 ```js
 const { logger, setLogFunctionProvider } = require('log4jcore')
-const { createFileAppender } = require('../index')
+const { createFileAppender } = require('log4jcore-file-appender')
 
 const path = require('path')
 
